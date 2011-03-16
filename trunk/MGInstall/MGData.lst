@@ -1,0 +1,9 @@
+*.XPF
+*.LST
+*.Ctr
+*.Log
+Remote\*.Db? 
+DATA\*.XPF
+DOCS\Dokumente\*.doc
+DOCS\Vorlagen\*.dot
+DOCS\Vorlagen\*.txt

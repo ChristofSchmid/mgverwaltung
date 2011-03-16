@@ -1,0 +1,70 @@
+Anrede;Name;Strasse;Ort;eMail
+Herr;Mürner Martin;Bachmattstrasse 15;8618 Oetwil am See;martin.muerner@bluewin.ch
+Herr;Gerber Martin;Galtbergstrasse 14b;8625 Gossau;m.g.gerber@bluewin.ch
+Herr;Gloor Alex;Weiherstr.2;8625 Gossau;a.gloor@active.ch
+Herr;Jegge Bruno;Hint.Engelstein 3;8344 Bäretswil;bruno.jegge@ideal-modellbau.ch
+Herr;Gremper Christian;Heimatstrasse 30;8645 Jona;christian.gremper@geberit.com
+Herr;Huber Rolf;Werkstrasse 13;8623 Wetzikon;rolf.huber@nolle-ag.ch
+Herr;Forrer Andreas;Luegetenweg 11;8634 Hombrechtikon;a.forrer@swissonline.ch
+Herr;Brennwald Ernst;Bergstr.195;8707 Uetikon a.S.;hb9iri@gmx.ch
+Herr;Nater Walter;Lindenweg 2;8634 Hombrechtikon;indi@freemails.ch
+Herr;Landert Jakob;Goldistenstrasse 11;8625 Gossau;agi.landert@sws-plastics.ch
+Herr;Dändliker Stefan;Gheistrasse 32;8634 Hombrechtikon;s.daendliker@cybercity.ch
+Herr;Staedeli Markus;Juheestr.11;8621 Wetzikon;aivm@swissonline.ch
+Herr;Haecker Johannes;Alte Langackerstrasse 75;8704 Herrliberg;jhaecker@aol.com
+Herr;Haecker Fabian;Alte Langackerstrasse 75;8704 Herrliberg;jhaecker@aol.com
+Herr;Onken Wolfgang;Oelestr.2a;8625 Gossau;wonken@bluewin.ch
+Herr;Nauer Sepp;Hinwilerstrasse 24;8623 Wetzikon;se.nauer@gmx.ch
+Herr;Croket Pascal;Weiherstrasse 8;8625 Gossau;pascal.croket@hispeed.ch
+Herr;Lampart Oliver;Willikonerstrasse 20;8618 Oetwil am See;o.lampart@bluewin.ch
+Herr;Dürst Hans;Bergholzweg 42;8123 Ebmatingen;duerst@ggaweb.ch
+Herr;Stadler Werner;Burgstrasse 29;8617 Mönchaltorf;werner.stadler@bluewin.ch
+Herr;Fischer Matthias;Gusch 19;8618 Oetwil am See;mati.fischer@gmx.ch
+Herr;Coradi Reto;Erlenweg 21;8133 Esslingen;rcoradi@gmx.ch
+Herr;Gerber Simeon;Im Grünenhof 23;8625 Gossau;simeongerber85@hotmail.com
+Herr;Wallimann Ruedi;Allenbergstrasse 23;8708 Männedorf;uwallimann@bluewin.ch
+Herr;Birchmeier Hans-Ruedi;Hofwisen 3;8317 Tagelswangen;dheierli@bluewin.ch
+Herr;Gacond Marcel;Tannenrainstrasse 12;8620 Wetzikon;marcel@gacond.ch
+Herr;Paul Dani;alte Winterthurerstrasse 28;8304 Wallisellen;daniel.paul@jecklin.ch
+Herr;Brändle Daniel;Betschürenstrasse 12;8625 Gossau;daniel.braendle@bluewin.ch
+Herr;Mäder Ernst;Leerütistr.1127;8625 Gossau;e.maeder2@bluewin.ch
+Herr;Sulser Daniel;Arinstrasse 6A;9475 Sevelen;ds@dsulser.com
+Herr;Ebersold Beat;Auf Salenrain 14;8712 Stäfa;b.ebersold@sunrise.ch
+Herr;Schmid Christof;Pflugsteinstrasse 9;8704 Herrliberg;christof.schmid@powerbike.com
+Herr;Sulser Nico;Arinstrasse 6A;9475 Sevelen;nico@promarketing.ch
+Herr;Schilling Christoph;Itziker Dorfstrasse 1;8627 Grüningen;christoph.schilling@srtechnics.com
+Herr;Effinger Peter;Dorfweg 21;8610 Uster;peter.effinger@hotmail.com
+Herr;Gacond Silvan;Zelgstrasse 6;8630 Rüti;silvan@gacond.ch
+Herr;Wong Philip;Erlenweg 21;8133 Esslingen;p.wong@hispeed.ch
+Herr;Angst Christian;Büelgasse 15;8625 Gossau;p.angst@industrie-metall.ch
+Herr;Schilling Peter;Saumstr.25;8625 Gossau;pe.schilling@bluewin.ch
+Herr;Schmid Dennis;Pflugsteinstrasse 9;8704 Herrliberg;dennis.schmid@powerbike.com
+Frau;Dürst Helen;Im Büel 455;8827 Grüningen;hduerst@swissonline.ch
+Herr;Brühwiler Daniel;Haltenweg 29;8706 Meilen;dowjones@bluemail.ch
+Herr;Vecchio Duilio;obere Schöneggstrasse 6;8707 Uetikon a/S;ceci69@hispeed.ch
+Herr;Harnisch Urs;Alte Forchstrasse 24a;8127 Forch;u@harnisch-gallery.ch
+Herr;Rohner Urs;Rigistrasse 36;8712 Stäfa;uese.rohner@bluewin.ch
+Herr;Schmid Matthias;Chugelgässli 1;8627 Grüningen;info@matimati.ch
+Herr;Höltschi Thomas;Alte Bergstrasse 3;8604 Volketswil;thoeltschi@computer.org
+Herr;Kunz Paul;Riethof 2;8604 Volketswil;paulkunz@gmx.ch
+Herr;Lampart Peter;Wigarte 3;8634 Hombrechtikon;pslh@bluewin.ch
+Herr;Erikson Bengt;In der Farb 21;8618 Oetwil a/S;*erikson@freesurf.ch
+Herr;Frattini Remo;Drittenberg 159;8133 Esslingen;illusion@freesurf.ch
+Herr;Fischer Roland;Diensbach 35;8340 Hadlikon;roli.fisch@gmx.net
+Herr;Wehrli Fritz;Schulhausstrasse 31;8620 Wetzikon;fwehrli@bluewin.ch
+Herr;Hophan Walter;Büelstrasse 452;8627 Grüningen;walter_hophan@freesurf.ch
+Herr;Pelloni Mauro;Tödistr. 28;8633 Wolfhausen;pelloni@hispeed.ch
+Herr;Mattle Rainer;Haltenstrasse 140;8706 Meilen;ramaha@bluewin.ch
+Herr;Läufle Karl;Bruggächerstrasse 4;8617 Mönchaltorf;karl.laeufle@bd.zh.ch
+Herr;Schädeli Steve;Haldenstrasse 71;8708 Männedorf;steve.sch@hispeed.ch
+Herr;Meyer Reto;Tödistrasse 13;8712 Stäfa;r-meyer@swissonline.ch
+Herr;Staebler Patrick;Langholzstrasse 96;8618 Oetwil a/S;f5_tiger1@yahoo.de
+Herr;Lüthy Andreas;Plattenhof 2;8634 Hombrechtikon;andreas.luethy@nikon.ch
+Herr;Zenca Giuseppe;Frohbüelstrasse 1;8627 Grüningen;g.zenca@bluewin.ch
+Herr;Garrod Christopher;Rohrhaldenstrasse 37;8712 Stäfa;garrod@sunrise.ch
+Herr;Dürst Bruno;Im Büel 455;8627 Grüningen;bruno.duerst@hotmail.com
+Herr;Trinkler Martin;Herrgass 6;8634 Hombrechtikon;martintrinkler@bluewin.ch
+Herr;Trinkler Marc;Herrgass 6;8634 Hombrechtikon;martintrinkler@bluewin.ch
+Herr;Strahm Robert;Kirchstrasse 24;8625 Gossau;r.strahm@bluewin.ch
+Herr;Bertschi Erich;Grütstrasse 76;8625 Gossau;erich.bertschi@hispeed.ch
+Herr;Mautone Nello;Bühlhofstrasse 81;8633 Wolfhausen;aniello.mautone@bluewin.ch
