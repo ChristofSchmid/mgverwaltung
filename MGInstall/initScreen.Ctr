@@ -1,0 +1,7 @@
+CtrMemType = PUBLIC
+DialogResizeAtStartup       = 1
+DialogMinSize               = 50
+ArtikelStammWindowSize      = {400,500}
+ArtikelStammWindowPosition  = {100,100}
+ArtikelStammWindowTyp       = idependent
+

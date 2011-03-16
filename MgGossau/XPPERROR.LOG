@@ -1,0 +1,32 @@
+
+------------------------------------------------------------------------------
+ERROR LOG of "C:\XPP\MGVerwaltung\MgGossau\Setup.exe" Date: 01/05/2009 00:12:42
+
+Xbase++ version     : Xbase++ (R) Version 1.90.346
+Operating system    : Windows Vista 06.00 Build 06001 Service Pack 1
+------------------------------------------------------------------------------
+oError:args         :
+          -> VALTYPE: C VALUE: C:\XPP\MGVerwaltung\MgGossau\MgGossau.EXE
+          -> VALTYPE: C VALUE: C:\Program Files\CAS Computing\MGVerwaltung\MgGossau\MgGossau.EXE
+oError:canDefault   : Y
+oError:canRetry     : Y
+oError:canSubstitute: N
+oError:cargo        : NIL
+oError:description  : Operating system error
+oError:filename     : 
+oError:genCode      :         40
+oError:operation    : 
+oError:osCode       :         32
+oError:severity     :          2
+oError:subCode      :          4
+oError:subSystem    : BASE
+oError:thread       :          1
+oError:tries        :          1
+------------------------------------------------------------------------------
+CALLSTACK:
+------------------------------------------------------------------------------
+Called from ZLAGERFILECOPY(918)
+Called from ZLAGERINSTALL(446)
+Called from (B)APPSYS(232)
+Called from XBPPUSHBUTTON:HANDLEEVENT(935)
+Called from MAIN(158)

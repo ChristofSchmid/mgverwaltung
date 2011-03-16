@@ -1,0 +1,24 @@
+Anrede;Name;Strasse;Ort
+Herr;Nater Adrian;Lindenweg 2;8634 Hombrechtikon
+Herr;Lienhard Samuel;Hofernweg 8;8134 Adliswil
+Herr & Frau;Markus & Maya Hächler - Dubach;Schwobshof;8625 Gossau ZH
+Herr;Kessler Walter;Schwobhofstrasse 800;8625 Gossau ZH
+Familie;Reutimann;Im Eisfeld;8625 Gossau ZH
+Herr;Gerber Walter;Schwylerstr.12;8712 Stäfa
+Herr;Sommerhalder Richard;Alte Herschärenstr.8;8633 Wolfhausen
+Herr;Gloor Roger;alte Engelsteinstr. 2;8344 Bäretswil
+Herr;Vogt Gerhard;Ebnetstr. 28a;8712 Stäfa
+Herr;Studer Beat;Feldlistrasse 41;8645 Jona
+Herr;Wetli Bruno;Auf der Grueb 42;8706 Meilen
+Herr;Paul Bruno;Neudorfstrasse 23;8050 Zürich
+Herr;Battisti Andreas;Seestrasse 48;8617 Mönchaltorf
+Herr;Widmer Wolfgang;Bänkliholzweg 30;8335 Hittnau
+Herr;Gilli Roger;Bänderbühlstr.27;8712 Stäfa
+Herr;Weber Fritz;Mönchaltorferstr.1;8625 Gossau
+Herr;Meyer Adrian;Weidächerstrasse 26;8706 Meilen
+Herr;Lienhard Daniel;Bodenacherstrasse 14;8121 Benglen
+Herr;Cortali Daniel;Alte Landstrasse 30;8706 Meilen
+Herr;Gysel Jürg;Appisbergstrasse 14;8708 Männedorf
+Herr;Haller Paul;Fischerweg 27;4313 Möhlin
+Herr;Schuh Hansjörg;Pfannenstielstrasse 50;8706 Meilen
+Herr;Stocker Guido;Affeltrangerstr. 5;8340 Hinwil
